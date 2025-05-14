@@ -1,0 +1,39 @@
+﻿@model FarmersHub.Models.Product
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<h2>Add Product</h2>
+
+<a asp-controller="Products" asp-action="MyProducts" class="btn btn-outline-secondary mb-3">View My Products</a>
+
+@if (!string.Equals(ViewContext.RouteData.Values["controller"]?.ToString(), "Home", StringComparison.OrdinalIgnoreCase))
+{
+    <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline float-end">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+}
+
+<form asp-action="Add" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Category" class="form-label"></label>
+        <input asp-for="Category" class="form-control" />
+        <span asp-validation-for="Category" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ProductionDate" class="form-label"></label>
+        <input asp-for="ProductionDate" type="date" class="form-control" />
+        <span asp-validation-for="ProductionDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Add Product</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

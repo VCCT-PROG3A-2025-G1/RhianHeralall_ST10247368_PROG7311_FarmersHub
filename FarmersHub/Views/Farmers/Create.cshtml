@@ -1,0 +1,35 @@
+﻿@model FarmersHub.Models.Farmer
+@{
+    ViewData["Title"] = "Add Farmer";
+}
+
+<h2>Add Farmer</h2>
+
+<a asp-controller="Farmers" asp-action="Index" class="btn btn-outline-secondary mb-3">View Farmers</a>
+<a asp-controller="Products" asp-action="Filter" class="btn btn-outline-secondary mb-3">View Products</a>
+
+@if (!string.Equals(ViewContext.RouteData.Values["controller"]?.ToString(), "Home", StringComparison.OrdinalIgnoreCase))
+{
+    <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline float-end">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+}
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Location" class="form-label"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Add Farmer</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

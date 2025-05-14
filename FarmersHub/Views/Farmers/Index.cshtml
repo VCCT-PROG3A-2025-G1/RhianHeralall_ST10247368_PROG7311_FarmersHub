@@ -1,0 +1,35 @@
+﻿@model IEnumerable<FarmersHub.Models.Farmer>
+@{
+    ViewData["Title"] = "Farmers";
+}
+
+<h2>Farmers</h2>
+
+<a asp-controller="Farmers" asp-action="Create" class="btn btn-outline-secondary mb-3">Add Farmer</a>
+<a asp-controller="Products" asp-action="Filter" class="btn btn-outline-secondary mb-3">View Products</a>
+
+@if (!string.Equals(ViewContext.RouteData.Values["controller"]?.ToString(), "Home", StringComparison.OrdinalIgnoreCase))
+{
+    <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline float-end">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var farmer in Model)
+        {
+            <tr>
+                <td>@farmer.Name</td>
+                <td>@farmer.Location</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

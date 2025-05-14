@@ -1,0 +1,38 @@
+﻿@model IEnumerable<FarmersHub.Models.Product>
+<h2>Filter Products</h2>
+
+<a asp-controller="Farmers" asp-action="Index" class="btn btn-outline-secondary mb-3">View Farmers</a>
+<a asp-controller="Farmers" asp-action="Create" class="btn btn-outline-secondary mb-3">Add Farmer</a>
+
+@if (!string.Equals(ViewContext.RouteData.Values["controller"]?.ToString(), "Home", StringComparison.OrdinalIgnoreCase))
+{
+    <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline float-end">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+}
+
+
+<form method="get">
+    <label>Category: <input name="category" /></label>
+    <label>From Date: <input name="from" type="date" /></label>
+    <label>To Date: <input name="to" type="date" /></label>
+    <button type="submit">Filter</button>
+</form>
+
+<table>
+    <thead>
+        <tr><th>Farmer</th><th>Name</th><th>Category</th><th>Date</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Farmer.Name</td>
+                <td>@product.Name</td>
+                <td>@product.Category</td>
+                <td>@product.ProductionDate.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
