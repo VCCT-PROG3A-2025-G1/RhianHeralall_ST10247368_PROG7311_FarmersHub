@@ -46,7 +46,7 @@ namespace FarmersHub.Controllers
         }
 
         [Authorize(Roles = "Employee")]
-        public IActionResult Filter(string category, DateTime? from, DateTime? to)
+        /*public IActionResult Filter(string category, DateTime? from, DateTime? to)
         {
             var query = _context.Products.Include(p => p.Farmer).AsQueryable();
 
@@ -58,6 +58,29 @@ namespace FarmersHub.Controllers
                 query = query.Where(p => p.ProductionDate <= to);
 
             return View(query.ToList());
+        }*/
+        [HttpGet]
+        public async Task<IActionResult> Filter(string category, DateTime? from, DateTime? to)
+        {
+            var products = _context.Products.Include(p => p.Farmer).AsQueryable();
+
+            if (!string.IsNullOrEmpty(category))
+            {
+                products = products.Where(p => p.Category.Contains(category));
+            }
+
+            if (from.HasValue)
+            {
+                products = products.Where(p => p.ProductionDate >= from.Value);
+            }
+
+            if (to.HasValue)
+            {
+                products = products.Where(p => p.ProductionDate <= to.Value);
+            }
+
+            var filteredProducts = await products.ToListAsync();
+            return View(filteredProducts);
         }
     }
 

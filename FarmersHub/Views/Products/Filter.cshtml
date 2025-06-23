@@ -1,8 +1,17 @@
 ﻿@model IEnumerable<FarmersHub.Models.Product>
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<FarmersHub.Models.ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Filter Products";
+    bool isEmployee = User.IsInRole("Employee");
+}
+
 <h2>Filter Products</h2>
 
 <a asp-controller="Farmers" asp-action="Index" class="btn btn-outline-secondary mb-3">View Farmers</a>
 <a asp-controller="Farmers" asp-action="Create" class="btn btn-outline-secondary mb-3">Add Farmer</a>
+
 
 @if (!string.Equals(ViewContext.RouteData.Values["controller"]?.ToString(), "Home", StringComparison.OrdinalIgnoreCase))
 {
@@ -11,26 +20,48 @@
     </form>
 }
 
-
-<form method="get">
-    <label>Category: <input name="category" /></label>
-    <label>From Date: <input name="from" type="date" /></label>
-    <label>To Date: <input name="to" type="date" /></label>
-    <button type="submit">Filter</button>
+<form method="get" asp-action="Filter">
+    <label>
+        Category:
+        <input name="category" value="@(Context.Request.Query["category"])" />
+    </label>
+    <label>
+        From Date:
+        <input name="from" type="date" value="@(Context.Request.Query["from"])" />
+    </label>
+    <label>
+        To Date:
+        <input name="to" type="date" value="@(Context.Request.Query["to"])" />
+    </label>
+    <button type="submit" class="btn btn-primary">Filter</button>
 </form>
 
-<table>
+<table class="table table-striped mt-3">
     <thead>
-        <tr><th>Farmer</th><th>Name</th><th>Category</th><th>Date</th></tr>
+        <tr>
+            <th>Farmer</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Production Date</th>
+        </tr>
     </thead>
     <tbody>
-        @foreach (var product in Model)
+        @if (Model != null && Model.Any())
+        {
+            foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Farmer?.Name</td>
+                    <td>@product.Name</td>
+                    <td>@product.Category</td>
+                    <td>@product.ProductionDate.ToShortDateString()</td>
+                </tr>
+            }
+        }
+        else
         {
             <tr>
-                <td>@product.Farmer.Name</td>
-                <td>@product.Name</td>
-                <td>@product.Category</td>
-                <td>@product.ProductionDate.ToShortDateString()</td>
+                <td colspan="4">No products found matching the filter criteria.</td>
             </tr>
         }
     </tbody>

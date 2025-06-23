@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FarmersHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70686e6b7bde1bc9fd6c00b57346459003713940")]
 [assembly: System.Reflection.AssemblyProductAttribute("FarmersHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FarmersHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

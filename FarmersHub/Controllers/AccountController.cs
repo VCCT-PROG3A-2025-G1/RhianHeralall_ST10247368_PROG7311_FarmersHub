@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace FarmersHub.Controllers
 {
+    [RequireHttps]
     public class AccountController : Controller
     {
         private readonly SignInManager<FarmersHub.Models.ApplicationUser> _signInManager;

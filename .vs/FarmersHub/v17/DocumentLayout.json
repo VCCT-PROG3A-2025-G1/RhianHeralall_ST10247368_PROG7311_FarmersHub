@@ -3,12 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\controllers\\farmercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\controllers\\farmercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\views\\products\\myproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\views\\products\\myproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\views\\products\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\views\\products\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|c:\\users\\lab_services_student\\documents\\prog7311_farmershub\\farmershub\\farmershub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D434636-EB43-4BCF-BFC1-FB0360B211F5}|FarmersHub\\FarmersHub.csproj|solutionrelative:farmershub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +90,267 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "FarmersHub\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "FarmersHub\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Program.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Program.cs",
+              "RelativeToolTip": "FarmersHub\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwD0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:56:15.426Z",
+              "WhenOpened": "2025-06-23T21:17:28.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FarmersHub\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:02:25.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FarmerControllers.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\FarmerControllers.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Controllers\\FarmerControllers.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\FarmerControllers.cs",
+              "RelativeToolTip": "FarmersHub\\Controllers\\FarmerControllers.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:24:55.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FarmersHub\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:37:18.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Farmers\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmersHub\\Views\\Farmers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Farmers\\Index.cshtml",
+              "RelativeToolTip": "FarmersHub\\Views\\Farmers\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T21:35:29.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FarmersHub\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FarmersHub\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T21:25:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FarmersHub\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:25:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Farmers\\Create.cshtml",
+              "RelativeDocumentMoniker": "FarmersHub\\Views\\Farmers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Farmers\\Create.cshtml",
+              "RelativeToolTip": "FarmersHub\\Views\\Farmers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T21:24:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\appsettings.json",
               "RelativeDocumentMoniker": "FarmersHub\\appsettings.json",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\appsettings.json",
               "RelativeToolTip": "FarmersHub\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T15:00:05.768Z"
+              "WhenOpened": "2025-06-23T23:17:19.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FarmersHub\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FarmersHub\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T23:21:16.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FarmersHub\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FarmersHub\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T23:17:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Products\\MyProducts.cshtml",
+              "RelativeDocumentMoniker": "FarmersHub\\Views\\Products\\MyProducts.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Products\\MyProducts.cshtml",
+              "RelativeToolTip": "FarmersHub\\Views\\Products\\MyProducts.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T21:47:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\Product.cs",
+              "RelativeToolTip": "FarmersHub\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:35:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\Farmer.cs",
+              "RelativeToolTip": "FarmersHub\\Models\\Farmer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:25:05.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Filter.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Products\\Filter.cshtml",
+              "RelativeDocumentMoniker": "FarmersHub\\Views\\Products\\Filter.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Products\\Filter.cshtml",
+              "RelativeToolTip": "FarmersHub\\Views\\Products\\Filter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T21:35:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "FarmersHub\\Views\\Products\\Add.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "FarmersHub\\Views\\Products\\Add.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T21:24:00.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "FarmersHub\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:50:52.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "FarmersHub\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:26:22.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FarmersHub\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:21:33.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "FarmersHub\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\PROG7311_FarmersHub\\FarmersHub\\FarmersHub\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "FarmersHub\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:21:35.181Z",
+              "EditorCaption": ""
             }
           ]
         }
