@@ -2,7 +2,7 @@
 
 # GitHub Link
 
-https://github.com/Rhian777/PROG7311_FarmersHub.git
+https://github.com/Rhian777/PROG7311_FarmersHub.git](https://github.com/VCCT-PROG3A-2025-G1/RhianHeralall_ST10247368_PROG7311_FarmersHub.git
 
 # FarmersHub – Agri-Energy Connect Prototype
 
