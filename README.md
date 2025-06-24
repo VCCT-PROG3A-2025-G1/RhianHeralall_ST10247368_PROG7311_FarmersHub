@@ -24,8 +24,8 @@ This ASP.NET Core MVC web application serves as a prototype for the FarmersHub p
 
 | Role     | Email                     | Password       |
 |----------|---------------------------|----------------|
-| Farmer   | `farmer1@example.com`     | `Password123!` |
-| Employee | `employee1@example.com`   | `Password123!` |
+| Farmer   | `farmer@example.com`     | `Password123!` |
+| Employee | `employee@example.com`   | `Password123!` |
 
 ## How it Works
 
